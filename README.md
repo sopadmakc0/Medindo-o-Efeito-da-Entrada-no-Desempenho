@@ -6,7 +6,7 @@ Nome: João Gabriel Silva de Melo
 O par que foi usado foi BST simples vs AVL e eles foram usados pra testar o tempo de inserção de dados para a construção de índices em banco de dados. O objetivo foi provar na prática como o pior caso (dados já ordenados) degrada o desempenho de uma árvore não balanceada e como a AVL resolve esse problema matematicamente através de rotações. Foram utilizados 5 tamanhos de entrada (1.000 a 16.000), medindo a mediana de 3 execuções válidas (descartando o warm-up) com semente fixa.
 
 
-## o que encontrei:
+## O que encontrei:
 <img width="596" height="551" alt="image" src="https://github.com/user-attachments/assets/274e726e-fc00-41bf-9dcd-06f51e152ba1" />
 
 
